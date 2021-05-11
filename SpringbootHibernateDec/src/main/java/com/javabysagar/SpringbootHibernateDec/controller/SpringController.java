@@ -26,6 +26,7 @@ public class SpringController {
 	@RequestMapping("/getallemployee")
 	public List<Employee> ListEmployee()
 	{
+		System.out.println("Welcome to Git Study");
 		List<Employee> listemployee=service.ListEmployee();
 		return listemployee;
 	}
