@@ -28,8 +28,7 @@ public class SpringController {
 	{
 	
 		
-		SpringController c = new SpringController();
-		c.getClass();
+		System.out.println("Hello");
 		List<Employee> listemployee=service.ListEmployee();
 		return listemployee;
 	}
