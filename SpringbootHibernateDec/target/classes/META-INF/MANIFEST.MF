@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringbootHibernateDec
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: thesa
+Implementation-Vendor-Id: com.javabykiran
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://spring.io/projects/spring-boot/SpringbootH
+ ibernateDec
+Created-By: Maven Integration for Eclipse
+
