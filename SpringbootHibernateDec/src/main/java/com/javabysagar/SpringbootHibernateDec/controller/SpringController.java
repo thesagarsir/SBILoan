@@ -28,7 +28,7 @@ public class SpringController {
 	{
 	
 		
-		System.out.println("Hello");
+		System.out.println("JBK java training Institue");
 		List<Employee> listemployee=service.ListEmployee();
 		return listemployee;
 	}
